@@ -1,0 +1,27 @@
+------------------------RETAIL STORE SIMULATION-------------------------
+
+PROJECT BY:
+M.TALAL FARRUKH - 321881
+M.SALMAN SHAHEER - 283669
+
+------------------------------------------------------------------------
+
+There are two folders in this project. One is the Game folder and the other is the Code folder.
+The Game folder contains the .exe file to run the simulation. The Code folder contains all the
+source code related to the simulation and all the important files like the SFML folders to make
+sure the code compiles and executes.
+
+------------------------------------------------------------------------
+
+HOW TO RUN THE SIMULATION:
+When the program opens, there is a starting screen. Click on the door icon to start the simulation. 
+The customers will start spawning after 7 seconds. The customers are yellow circles while the staff
+are green circles. In order to get information about a customer's basket, hover over the yellow 
+circle of the customer. Similarly for the item shelves, hover over the brown shelves marked with
+numbers.
+The user can open and close the shop by clicking on the door icon which is located on the top right.
+The user also has the option to exit the program by clicking on the exit button which is also on the
+top right. This button also appears on the starting screen.
+
+------------------------------------------------------------------------- 
+
